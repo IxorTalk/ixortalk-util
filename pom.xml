@@ -28,7 +28,7 @@
 
 	<groupId>com.ixortalk</groupId>
 	<artifactId>ixortalk.util</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<properties>
 		<jackson.version>2.8.10</jackson.version>
 	</properties>
@@ -41,7 +41,7 @@
 		<connection>scm:git:git@github.com:ixortalkadmin/ixortalk.util.git</connection>
 		<developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk.util.git</developerConnection>
 		<url>https://github.com/ixortalkadmin/ixortalk.util/tree/master</url>
-		<tag>ixortalk.util-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
