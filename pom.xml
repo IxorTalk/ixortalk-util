@@ -28,16 +28,16 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ixortalk</groupId>
-	<artifactId>ixortalk.util</artifactId>
+	<artifactId>ixortalk-util</artifactId>
 	<version>1.0.2-SNAPSHOT</version>
 	<properties>
 		<jackson.version>2.8.10</jackson.version>
 	</properties>
 	<packaging>jar</packaging>
 
-	<name>ixortalk.util</name>
+	<name>ixortalk-util</name>
 	<description>IxorTalk Util module that contains util classes</description>
-	<url>https://github.com/ixortalkadmin/ixortalk.util/tree/master</url>
+	<url>https://github.com/ixortalkadmin/ixortalk-util/tree/master</url>
 
 	<organization>
 		<name>IxorTalk CVBA</name>
@@ -72,9 +72,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git@github.com:ixortalkadmin/ixortalk.util.git</connection>
-		<developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk.util.git</developerConnection>
-		<url>https://github.com/ixortalkadmin/ixortalk.util/tree/master</url>
+		<connection>scm:git:git@github.com:ixortalkadmin/ixortalk-util.git</connection>
+		<developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-util.git</developerConnection>
+		<url>https://github.com/ixortalkadmin/ixortalk-util/tree/master</url>
 		<tag>HEAD</tag>
 	</scm>
 
