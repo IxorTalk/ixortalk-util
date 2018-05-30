@@ -37,6 +37,38 @@
 	<name>ixortalk.util</name>
 	<description>IxorTalk Util module that contains util classes</description>
 
+	<organization>
+		<name>IxorTalk CVBA</name>
+		<url>http://ixortalk.com</url>
+	</organization>
+	<licenses>
+		<license>
+			<name>The MIT License</name>
+			<url>https://opensource.org/licenses/MIT</url>
+		</license>
+	</licenses>
+	<developers>
+		<developer>
+			<id>ddewaele</id>
+			<name>Davy De Waele</name>
+			<email>davy.dewaele at ixortalk.com</email>
+			<organization>IxorTalk CVBA</organization>
+			<organizationUrl>http://ixortalk.com</organizationUrl>
+			<roles>
+				<role>Project lead</role>
+			</roles>
+		</developer>
+		<developer>
+			<id>wjans</id>
+			<name>Ward Jans</name>
+			<email>ward.jans at ixortalk.com</email>
+			<organization>IxorTalk CVBA</organization>
+			<organizationUrl>http://ixortalk.com</organizationUrl>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+	</developers>
 	<scm>
 		<connection>scm:git:git@github.com:ixortalkadmin/ixortalk.util.git</connection>
 		<developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk.util.git</developerConnection>
