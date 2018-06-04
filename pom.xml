@@ -72,8 +72,8 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git@github.com:ixortalkadmin/ixortalk-util.git</connection>
-		<developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-util.git</developerConnection>
+		<connection>scm:git:git@github.com:ixortalk/ixortalk-util.git</connection>
+		<developerConnection>scm:git:git@github.com:ixortalk/ixortalk-util.git</developerConnection>
 		<url>https://github.com/ixortalk/ixortalk-util/tree/master</url>
 		<tag>HEAD</tag>
 	</scm>
