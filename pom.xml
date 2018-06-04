@@ -41,7 +41,7 @@
 
 	<organization>
 		<name>IxorTalk CVBA</name>
-		<url>http://ixortalk.com</url>
+		<url>https://ixortalk.com</url>
 	</organization>
 	<licenses>
 		<license>
@@ -55,7 +55,7 @@
 			<name>Davy De Waele</name>
 			<email>davy.dewaele at ixortalk.com</email>
 			<organization>IxorTalk CVBA</organization>
-			<organizationUrl>http://ixortalk.com</organizationUrl>
+			<organizationUrl>https://ixortalk.com</organizationUrl>
 			<roles>
 				<role>Project lead</role>
 			</roles>
@@ -65,7 +65,7 @@
 			<name>Ward Jans</name>
 			<email>ward.jans at ixortalk.com</email>
 			<organization>IxorTalk CVBA</organization>
-			<organizationUrl>http://ixortalk.com</organizationUrl>
+			<organizationUrl>https://ixortalk.com</organizationUrl>
 			<roles>
 				<role>Developer</role>
 			</roles>
