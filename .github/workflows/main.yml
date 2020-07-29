@@ -21,6 +21,7 @@ jobs:
       - name: Maven release
         uses: qcastel/github-actions-maven-release@v1.0.3
         with:
+          release-branch-name: "master"
           maven-repo-server-id: ossrh
           maven-repo-server-username: ${{ secrets.OSSRH_USERNAME }}
           maven-repo-server-password: ${{ secrets.OSSRH_TOKEN }}
