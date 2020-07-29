@@ -23,7 +23,7 @@ jobs:
           git-release-bot-name: "ixortalkadmin"
           git-release-bot-email: "admin@ixortalk.com"
 
-          access-token: blabla
+          access-token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
 
           maven-repo-server-id: ossrh
           maven-repo-server-username: ${{ secrets.OSSRH_USERNAME }}
