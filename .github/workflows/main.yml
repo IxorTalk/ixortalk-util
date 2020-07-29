@@ -20,10 +20,10 @@ jobs:
         uses: qcastel/github-actions-maven-release@master
         with:
           release-branch-name: "master"
-          git-release-bot-name: "ixortalk-admin"
-          git-release-bot-email: "admin@ixortal.com"
+          git-release-bot-name: "ixortalkadmin"
+          git-release-bot-email: "info@ixortalk.com"
 
-          access-token: ${{ secrets.PERSONAL_ACTIONS_TEST_TOKEN }}
+          access-token: ${{ secrets.IXORTALK_ADMIN_ACCESS_TOKEN }}
 
           maven-repo-server-id: ossrh
           maven-repo-server-username: ${{ secrets.OSSRH_USERNAME }}
