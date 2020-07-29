@@ -21,7 +21,7 @@ jobs:
         with:
           release-branch-name: "master"
           git-release-bot-name: "ixortalkadmin"
-          git-release-bot-email: "info@ixortalk.com"
+          git-release-bot-email: "admin@ixortalk.com"
 
           access-token: ${{ secrets.IXORTALK_ADMIN_ACCESS_TOKEN }}
 
